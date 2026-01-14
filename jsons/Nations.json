@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Maison Greyjoy",
+		"leaderName": "Balon",
+		"adjective": ["Greyjoy"],
+		"startBias": ["Côte"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
+		"startIntroPart1": "Balon Greyjoy, les maisons des Iles de Fer vous ont désignés comme leur leader. Acceptez cette charge, et apportez gloire et richesses à votre peuple! Descendant des Fer-né, eux mêmes descendant des Premiers Hommes et des Andals, vous dirigez un peuple fier et singulier. Il y a trois générations seulement, les Fer-nés fondaient la forteresse légeandaire d'Harrenhal, le plus grand château du continent. A l'abris de ces murs qui pouvaient repousser un millions d'hommes, la domination de vos ancêtres sur le Conflans semblaient acquise. Mais Aegon Targaryen arriva à Westeros avec son armée et ses dragons, et brûla vifs tous ses ennemis. Depuis lors, les Fer-nés se sont tournés vers votre maison pour les diriger, mais la colère gronde.",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
+		"declaringWar": "Nous ne semons pas. Et vos terres vertes semblent n'attendre que nous.",
+		"attacked": "Ce qui est mort ne saurait mourir!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["A vous de me dire.","Satisfait?"],
+		"neutralNo": ["Je refuse.","Sûrement pas!"],
+		"neutralYes": ["Tant mieux.","Bien.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Que nous voulez vous?",
+		"hateLetsHearIt": ["Alors?","Qu'avez-vous à dire?","Votre réponse..?"],
+		"hateNo": ["Gardez ça pour vous.","Je n'en veux pas."],
+		"hateYes": ["Tant mieux.","Mhmm? Vous avez bien fait."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Très bien, tout ces combats devenaient ennuyeux...",
+		"tradeRequest": "Je fais rarement une offre.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Pyk","Vieux Wyk","Dix Tours","Lordsport","Harrenhal","Salfalaise","Orkmont","Cormartel","Grand Wyk",
+			"Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name",
+			"Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name",
+			"Enter Name","Enter Name","Enter Name","Enter Name","Enter Name"]
 	}
 ]
