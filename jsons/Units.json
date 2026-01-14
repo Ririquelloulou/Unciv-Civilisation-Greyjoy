@@ -1,17 +1,18 @@
 [
 	{
 		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"unitType": "Ranged Water",
+		"uniqueTo": "Maison Greyjoy",
+		"replaces": "Frigate",
+		"movement": 5,
+		"strength": 25,
+		"rangedStrength": 32,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"cost": 185,
+		"requiredTech": "Navigation",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
+		"upgradesTo": "Battleships",
 		"attackSound": "phasers"
 	}
 ]
