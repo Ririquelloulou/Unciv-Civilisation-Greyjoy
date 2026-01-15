@@ -13,13 +13,13 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Mine de fer",
+		"replaces": "Workshop",
+		"uniqueTo": "Maison Greyjoy",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"production": 4,
+		"specialistSlots": {"Engineer": 1},
+		"requiredTech": "Metal Casting"
 	}
 ]
