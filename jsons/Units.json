@@ -11,7 +11,7 @@
 		"requiredTech": "Navigation",
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
-		"upgradesTo": "Battleships",
+		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
 	}
