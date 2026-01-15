@@ -14,12 +14,12 @@
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "Nous ne semons pas. Nous prenons ce qui nous appartient. Ta vie parmi les loups a fait de toi un faible.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Que nous voulez vous?",
 		"neutralLetsHearIt": ["A vous de me dire.","Satisfait?"],
 		"neutralNo": ["Je refuse.","Sûrement pas!"],
 		"neutralYes": ["Tant mieux.","Bien.","That is very good."],
 
-		"hateHello": "Que nous voulez vous?",
+		"hateHello": "Qu'avez-vous à dire de si... captivant?",
 		"hateLetsHearIt": ["Alors?","Qu'avez-vous à dire?","Votre réponse..?"],
 		"hateNo": ["Gardez ça pour vous.","Je n'en veux pas."],
 		"hateYes": ["Tant mieux.","Mhmm? Vous avez bien fait."],
