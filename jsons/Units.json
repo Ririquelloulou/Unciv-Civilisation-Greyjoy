@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Navire de Fer",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Maison Greyjoy",
 		"replaces": "Frigate",
 		"movement": 5,
 		"strength": 25,
 		"rangedStrength": 32,
-		"range": 2,
 		"cost": 185,
 		"requiredTech": "Navigation",
+		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
-		"promotions": ["Logistics","Accuracy I"],
 		"upgradesTo": "Battleships",
-		"attackSound": "phasers"
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
 	}
 ]
