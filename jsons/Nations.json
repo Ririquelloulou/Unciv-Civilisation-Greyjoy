@@ -27,8 +27,8 @@
 		"afterPeace": "Très bien, tout ces combats devenaient ennuyeux...",
 		"tradeRequest": "J'échange rarement à l'amiable. Vous feriez mieux d'acceptez.",
 
-		"outerColor": [245, 230, 55],
-		"innerColor": [23,30,55],
+		"outerColor": [23,30,55],
+		"innerColor": [245, 230, 55],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Pyk","Vieux Wyk","Dix Tours","Lordsport","Harrenhal","Salfalaise","Orkmont","Cormartel","Grand Wyk",
 			"Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name",
