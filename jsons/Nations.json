@@ -3,7 +3,7 @@
 		"name": "Maison Greyjoy",
 		"leaderName": "Balon",
 		"adjective": ["Greyjoy"],
-		"startBias": ["Côte"],
+		"startBias": ["Coast","Avoid [Forest]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Balon Greyjoy, les maisons des Iles de Fer vous ont désignés comme leur leader. Acceptez cette charge, et apportez gloire et richesses à votre peuple! Descendant des Fer-nés, eux mêmes descendants des Premiers Hommes et des Andals, vous dirigez un peuple fier et singulier. Il y a trois générations seulement, les Fer-nés fondaient la forteresse légeandaire d'Harrenhal, le plus grand château du continent. A l'abris de ces murs qui pouvaient repousser un millions d'hommes, la domination de vos ancêtres sur le Conflans semblaient acquise. Mais Aegon Targaryen arriva à Westeros avec son armée et ses dragons, et brûla vifs tous ses ennemis. Depuis lors, les Fer-nés se sont tournés vers votre maison pour les diriger, mais la colère gronde.",
