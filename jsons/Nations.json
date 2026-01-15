@@ -30,7 +30,7 @@
 		"outerColor": [23,30,55],
 		"innerColor": [245, 230, 55],
 		"uniqueName": "Nous ne semons pas",
-		"unique": "Gain a free [Port] [in all cities]",
+		"uniques": "Gain a free [Port] [in all cities]",
 		"cities": ["Pyk","Vieux Wyk","Dix Tours","Lordsport","Harrenhal","Salfalaise","Orkmont","Cormartel","Grand Wyk",
 			"Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name",
 			"Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name",
