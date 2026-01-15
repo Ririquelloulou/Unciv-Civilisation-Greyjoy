@@ -29,8 +29,7 @@
 
 		"outerColor": [23,30,55],
 		"innerColor": [245, 230, 55],
-		"uniqueName": "Nous ne semons pas",
-		"uniques": "",
+		"unique": "Nous ne semons pas",
 		"cities": ["Pyk","Vieux Wyk","Dix Tours","Lordsport","Harrenhal","Salfalaise","Orkmont","Cormartel","Grand Wyk",
 			"Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name",
 			"Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name","Enter Name",
