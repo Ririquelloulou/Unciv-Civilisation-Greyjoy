@@ -1,15 +1,16 @@
 [
 	{
-		"name": "Navire de Fer",
+		"name": "Navire Brumeux",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Maison Greyjoy",
 		"replaces": "Frigate",
 		"movement": 5,
 		"strength": 25,
 		"rangedStrength": 32,
+		"range": 3,
 		"cost": 185,
 		"requiredTech": "Navigation",
-		"requiredTech": "Electronics",
+		"obsoleteTech": "Electronics",
 		"requiredResource": "Iron",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
